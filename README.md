@@ -102,3 +102,8 @@
 | ![#FFDE8F](http://placehold.it/15/FFDE8F/000000?text=+) |  60% | #FFDE8F | 255, 222, 143 |
 | ![#FFE9B5](http://placehold.it/15/FFE9B5/000000?text=+) |  40% | #FFE9B5 | 255, 233, 181 |
 | ![#FFF4DA](http://placehold.it/15/FFF4DA/000000?text=+) |  20% | #FFF4DA | 255, 244, 218 |
+
+## Additional Resources  
+* [Branding Style Guide](https://mn.gov/mmb-stat/branding/style-guide/minnesota-state-brand-style-guide-2016.pdf)  
+* [Branding Colors](https://www.mn.gov/portal/brand/style-guide/colors)  
+* [State of Minnesota Logos](https://www.mn.gov/portal/brand/style-guide/logo)  
