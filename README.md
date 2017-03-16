@@ -22,7 +22,7 @@
 
 ### Black, Gray, and White  
 
-| Color     | Tint     | RGB     |
+| Color     | HEX     | RGB     |
 | :------------- | :------------- | :------------- |
 | ![#000000](http://placehold.it/15/000000/000000?text=+) | #000    |   0,   0,   0 |
 | ![#53565A](http://placehold.it/15/53565A/000000?text=+) | #53565A |  83,  86,  90 |
