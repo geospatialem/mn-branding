@@ -104,6 +104,20 @@
 | ![#FFE9B5](http://placehold.it/15/FFE9B5/000000?text=+) |  40% | #FFE9B5 | 255, 233, 181 |
 | ![#FFF4DA](http://placehold.it/15/FFF4DA/000000?text=+) |  20% | #FFF4DA | 255, 244, 218 |
 
+## Safety Colors  
+Used to communicate safety-related information online and in print. These colors may be used as accents to draw attention to critical safety instructions, but should not dominate the design or replace the primary brand colors. Colors do not impact physical safety equipment used by the state (i.e. road cones, high visibility clothing, or vehicles). For other common safety-related colors (amber, green and blue), use existing colors in the primary and extended accent color palettes.
+
+### Red
+| Color     | HEX     | RGB     |
+| :------------- | :------------- | :------------- |
+| ![#A6192E](http://placehold.it/15/A6192E/000000?text=+) | #A6192E | 166,  25, 46 |
+
+### Orange
+| Color     | HEX     | RGB     |
+| :------------- | :------------- | :------------- |
+| ![#E57200](http://placehold.it/15/E57200/000000?text=+) | #E57200 | 229, 114,  0 |
+
+
 ## Additional Resources  
 * [Branding Style Guide](https://mn.gov/mmb-stat/branding/style-guide/minnesota-state-brand-style-guide-2016.pdf)  
 * [Branding Colors](https://www.mn.gov/portal/brand/style-guide/colors)  
