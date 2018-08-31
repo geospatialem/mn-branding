@@ -119,6 +119,6 @@ Used to communicate safety-related information online and in print. These colors
 
 
 ## Additional Resources  
-* [Branding Style Guide](https://mn.gov/mmb-stat/branding/style-guide/minnesota-state-brand-style-guide-2016.pdf)  
+* [Branding Style Guide](https://mn.gov/mmb-stat/branding/style-guide/minnesota-style-guide-2018.pdf)  
 * [Branding Colors](https://www.mn.gov/portal/brand/style-guide/colors)  
 * [State of Minnesota Logos](https://www.mn.gov/portal/brand/style-guide/logo)  
